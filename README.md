@@ -1,2 +1,2 @@
-# Internship-all-tasks-
-all task files of ethical hacking internship by internship studio.
+# Internship-task-1-and-2
+ task 1 and 2 files of ethical hacking internship by internship studio.
